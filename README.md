@@ -1,4 +1,4 @@
-# kicodes
+# kicodes [![npm](npm.svg)](https://www.npmjs.com/package/js-fixerr)
 
 Keyboard key values
 
